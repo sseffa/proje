@@ -1,1 +1,1 @@
-# proje
+# Proje kodlarını içerir
